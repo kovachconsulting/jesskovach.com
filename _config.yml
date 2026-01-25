@@ -1,0 +1,9 @@
+title: Jess Kovach
+description: Writer, speaker, and founder.
+theme: minima
+
+header_pages:
+  - about.md
+  - writing.md
+  - speaking.md
+  - contact.md
