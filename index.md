@@ -4,6 +4,12 @@ layout: home
 
 ## Jess Kovach
 
-Writer • Speaker • Founder
+Writer · Speaker · Founder
 
-This is the home base for my work.
+I write and speak about leadership, systems, and how people navigate complexity without losing their values — or themselves.
+
+This site is a home base for my writing, speaking, and ongoing work at the intersection of leadership, human rights, and sense-making.
+
+→ [Read my writing](/writing)  
+→ [Learn more about my work](/about)  
+→ [Speaking & facilitation](/speaking)
