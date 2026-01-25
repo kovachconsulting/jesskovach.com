@@ -1,2 +1,3 @@
 # jesskovach.com
-mynamerespository
+
+Personal website for writing, speaking, and public work.
