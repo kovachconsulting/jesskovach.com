@@ -1,0 +1,28 @@
+/* Homepage hero frame */
+
+.hero-frame {
+  margin: 4rem auto;
+  padding: 2.5rem;
+  max-width: 1100px;
+  border: 1px solid #222;
+}
+
+.hero-content {
+  display: flex;
+  gap: 3rem;
+  align-items: center;
+}
+
+.hero-text {
+  flex: 1.4;
+}
+
+.hero-image {
+  flex: 1;
+}
+
+.hero-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}

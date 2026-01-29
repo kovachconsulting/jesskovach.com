@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<style>
+.hero-content {
+  display: flex !important;
+  gap: 3rem;
+  align-items: center;
+}
+
+.hero-text {
+  flex: 1.4;
+}
+
+.hero-image {
+  flex: 1;
+}
+
+.hero-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+</style>
+
+<section class="hero-frame">
+  <div class="hero-content">
+    <div class="hero-text">
+      {{ content }}
+    </div>
+
+    <div class="hero-image">
+      <img src="{{ 'assets/images/hero.png' | relative_url }}" alt="Jess Kovach">
+    </div>
+  </div>
+</section>

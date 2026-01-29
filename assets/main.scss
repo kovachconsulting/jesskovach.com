@@ -1,0 +1,20 @@
+.homepage-hero {
+  display: grid;
+  grid-template-columns: 1.4fr;
+  gap: 3rem;
+  align-items: center;
+  margin-top: 4rem;
+}
+
+.hero-frame {
+  margin: 4rem auto;
+  padding: 2.5rem;
+  max-width: 1100px;
+  border: 1px solid #222;
+}
+
+.hero-content {
+---
+---
+
+@import "minima";
