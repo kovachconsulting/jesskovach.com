@@ -2,6 +2,10 @@ title: Jess Kovach
 description: Writer, speaker, and founder.
 theme: minima
 
+url: "https://jesskovach.github.io"
+baseurl: "/jesskovach"
+repository: jesskovach/jesskovach
+
 header_pages:
   - about.md
   - writing.md
