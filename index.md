@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## Jess Kovach
+# Jess Kovach
 
 I write and speak about how technology, corporations, and institutions shape people’s lives — often quietly, and rarely by accident.
 
