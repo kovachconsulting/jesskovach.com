@@ -1,3 +1,9 @@
+---
+layout: default
+title: About
+permalink: /about/
+---
+
 **Writing**
 
 Most of the decisions that shape our lives aren’t made in moments of crisis or clarity.
