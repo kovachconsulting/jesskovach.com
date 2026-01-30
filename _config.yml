@@ -2,8 +2,8 @@ title: ""
 description: 
 theme: minima
 
-url: "https://jesskovach.github.io"
-baseurl: "/jesskovach"
+url: "https://jesskovach.com"
+baseurl: ""
 repository: jesskovach/jesskovach
 
 header_pages:
