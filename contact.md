@@ -1,41 +1,23 @@
----
-layout: page
-title: Work With Me
----
+**Work With Me
+**
+Not everything that needs attention requires a program. Some moments require judgment, steadiness, and the ability to see what’s actually happening while everyone else is reacting to what’s loudest.
 
-I work with individuals and organizations who are navigating complexity — and who want to engage with it thoughtfully, not bypass it.
+I work with leaders, teams, and organizations who are navigating complexity they can feel but haven’t fully named—often because the system rewards speed, compliance, or surface-level alignment over sense-making.
 
-Depending on what you’re looking for, there are a few different ways we might work together.
+This work usually begins after the realization that something isn’t broken in the obvious way. The numbers may still look fine. The strategy may still make sense on paper. But trust is thinning. Decisions feel harder to defend. People are quietly carrying more than their roles were designed to hold.
 
----
+My role is not to fix people or optimize performance. It’s to help clarify what’s being asked, what’s being avoided, and what responsibility actually looks like in context.
 
-### Coaching
-I offer life coaching and neurodivergent coaching for people navigating leadership, change, burnout, identity, and decision-making in systems that weren’t designed with them in mind.
+Sometimes that takes the form of advisory work with senior leaders who need a grounded, independent perspective—someone who understands how power really moves inside institutions and isn’t invested in protecting the fiction.
 
-My approach is practical, reflective, and values-driven. I’m less interested in fixing people and more interested in helping them make sense of what’s happening, clarify what matters, and move forward with agency.
+Sometimes it looks like facilitated conversations where teams slow down just enough to see the dynamics shaping their choices, before those dynamics harden into culture.
 
-If coaching feels like the right starting point, email me with a brief note about what you’re navigating.
+And sometimes the work is simply making space for leaders to think clearly again—to separate what is theirs to carry from what the system has quietly handed them and walked away from.
 
----
+I don’t offer one-size frameworks or prepackaged solutions. The value here comes from attention, pattern recognition, and the willingness to stay with uncomfortable questions long enough for better ones to emerge.
 
-### Speaking & Facilitation
-I speak and facilitate conversations for organizations, teams, and communities who want honest engagement around leadership, systems, and human impact.
+If you’ve found yourself nodding while reading—or feeling a kind of relief that someone is finally saying the quiet part out loud—we’re likely speaking the same language.
 
-This work includes keynotes, workshops, moderated conversations, and smaller interactive sessions. You can learn more about my speaking work on the Speaking page, or reach out directly with details about your event.
+That doesn’t mean we should work together. It does mean a conversation would be honest.
 
----
-
-### Consulting & Human Rights Work
-I also work as a consultant on projects related to leadership, organizational systems, human rights, anti-trafficking efforts, and the protection of children’s rights in humanitarian contexts.
-
-If you’re exploring a collaboration or consulting engagement, please share a bit of context about the work and what you’re hoping to accomplish.
-
----
-
-### Getting in touch
-The best place to start any of these conversations is email.
-
-**Email:**  
-hello@jesskovach.com
-
-If you’re not sure which category your inquiry fits into, that’s okay. We can figure that out together.
+If you’re interested in exploring whether that conversation makes sense, you can reach out here.
