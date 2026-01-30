@@ -26,6 +26,8 @@ I don’t offer scripts. I don’t fix people. And I don’t pretend complexity 
 
 If my writing sharpens how you think, and my speaking resonates with how you see the world, working together is where those ideas become practical.
 
-You don’t need to know exactly what you’re looking for yet. You just need to know that something isn’t quite aligning—and that you’re ready to engage it thoughtfully.
+Most people reach out before they’re certain what they need.
+They just know the situation they’re in can’t be approached casually—or alone.
 
-That’s enough to start a conversation.
+If that’s where you are, we can start with a conversation.
+No pitch. No assumptions. Just a chance to see whether the work is a fit.
