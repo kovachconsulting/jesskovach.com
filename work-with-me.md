@@ -21,3 +21,4 @@ The work we do together is often quiet. It’s reflective, rigorous, and grounde
 I don’t work with everyone, and this isn’t fast or performative work. It’s most effective when there is space for honesty, complexity, and discomfort without collapse.
 
 If this kind of work is relevant, you’ll know when the moment arrives.
+
