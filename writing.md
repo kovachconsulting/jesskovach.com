@@ -14,4 +14,7 @@ I don’t write to offer easy answers or universal frameworks. I write to make p
 
 If you’ve ever felt the tension between what you’re expected to do and what you know is right—this work is for you.
 
-And if reading it leaves you thinking, someone needs to say this out loud—that’s where speaking begins.
+Writing is where I slow things down enough to see what’s actually happening—where incentives, power, and responsibility can stay visible without being simplified.
+
+But some questions don’t resolve on the page. They surface tension. They ask to be spoken aloud, in rooms where decisions are made and accountability is shared.
+
