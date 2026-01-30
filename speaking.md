@@ -1,3 +1,9 @@
+---
+layout: default
+title: Speaking
+permalink: /speaking/
+---
+
 **Speaking**
 
 Some ideas don’t belong only on the page.
