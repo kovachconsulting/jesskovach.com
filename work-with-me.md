@@ -1,3 +1,9 @@
+---
+layout: default
+title: Work With Me
+permalink: /work-with-me/
+---
+
 **Work With Me**
 
 I work with people and organizations who are making real decisions inside complex systems—where the stakes are human, the constraints are real, and clarity matters more than consensus.
