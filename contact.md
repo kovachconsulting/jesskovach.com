@@ -1,5 +1,5 @@
-**Work With Me
-**
+**Work With Me**
+
 Not everything that needs attention requires a program. Some moments require judgment, steadiness, and the ability to see what’s actually happening while everyone else is reacting to what’s loudest.
 
 I work with leaders, teams, and organizations who are navigating complexity they can feel but haven’t fully named—often because the system rewards speed, compliance, or surface-level alignment over sense-making.
