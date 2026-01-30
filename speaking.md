@@ -1,4 +1,5 @@
 **Speaking**
+
 Some ideas don’t belong only on the page.
 
 They need to be spoken—carefully, precisely, and in rooms where decisions are actually being made.
