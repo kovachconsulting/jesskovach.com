@@ -1,27 +1,17 @@
 **Writing**
 
-I write to make power visible.
+Most of the decisions that shape our lives aren’t made in moments of crisis or clarity.
 
-Most of the forces shaping daily life don’t announce themselves. They show up as defaults. As incentives. As “that’s just how it works.” Over time, they begin to feel natural—even inevitable—until it becomes difficult to tell where choice ends and compliance begins.
+They’re made quietly—inside systems, policies, incentives, and defaults. They’re made under time pressure, imperfect information, and expectations that rarely show up on an org chart. And by the time their impact is visible, responsibility has often become diffuse.
 
-My writing traces those systems as they actually operate, not as they’re marketed. Technology. Institutions. Corporate structures. Governance. The quiet agreements between them. I’m interested in how decisions made far from public view harden into infrastructure—and how accountability thins as complexity grows.
+My writing focuses on those moments.
 
-This work isn’t about outrage or abstraction. It’s about legibility.
+I write about leadership when certainty is unavailable, about power that operates without announcement, and about accountability in environments where harm is rarely intentional—but often predictable. I’m interested in how systems shape behavior, how people rationalize decisions they’re uncomfortable with, and what it actually means to lead responsibly when tradeoffs are unavoidable.
 
-I write for people who sense that something fundamental has shifted, but haven’t been given language precise enough to name it. People who work inside systems that reward silence, speed, and alignment—and feel the friction when those demands collide with human cost.
+Some of this work is analytical. Some of it is reflective. All of it is grounded in lived experience—inside organizations, in coaching conversations, and in human rights work where the cost of getting things wrong is not theoretical.
 
-Some pieces are analytical. Some are personal. Many sit uncomfortably in between. Lived experience matters here—not as anecdote, but as data. What it feels like to operate inside these systems is often the first signal that something is wrong.
+I don’t write to offer easy answers or universal frameworks. I write to make patterns visible: to name what’s happening beneath the surface, to slow down the rush to justification, and to create space for better questions.
 
-I don’t offer tidy conclusions. I’m more interested in asking the questions that linger after the page ends:
+If you’ve ever felt the tension between what you’re expected to do and what you know is right—this work is for you.
 
-Who benefits from this structure continuing unchanged?
-What becomes normalized when responsibility is distributed just enough to disappear?
-What does it mean to act with integrity inside systems that weren’t designed for it?
-
-If this writing resonates, it’s usually because you’ve encountered these dynamics firsthand—at work, in institutions, or in moments where the official explanation didn’t match the lived reality.
-
-The next question is often the same:
-
-What happens when these ideas leave the page and enter a room?
-
-That’s where speaking begins.
+And if reading it leaves you thinking, someone needs to say this out loud—that’s where speaking begins.
