@@ -1,27 +1,16 @@
 **Speaking**
+Some ideas don’t belong only on the page.
 
-Writing names the problem. Speaking changes what people do with it.
+They need to be spoken—carefully, precisely, and in rooms where decisions are actually being made.
 
-When these ideas move into a room, something shifts. What was abstract becomes relational. What felt isolating becomes shared. People start recognizing patterns they’ve been navigating alone—and realizing they’re not personal failures, but structural ones.
+My speaking work grows directly out of my writing. I’m invited into conversations where leaders, teams, and institutions are grappling with complexity they can’t simplify away: competing values, diffuse accountability, systems that reward the wrong behaviors, and decisions whose consequences are deeply human.
 
-I speak to make systems legible in real time.
+I speak about leadership when certainty is unavailable. About power that operates quietly. About responsibility when outcomes are shared, delayed, or inconvenient to name. And about what it looks like to slow down long enough to make better decisions—without pretending the stakes aren’t real.
 
-My talks are grounded in lived experience inside large consumer technology organizations, paired with a clear-eyed analysis of how power, incentives, and compliance actually function. I’m not interested in performance or provocation for its own sake. I’m interested in what happens when people finally have language for what they’ve been feeling—and the space to think differently about their role inside it.
+These talks are shaped by experience across organizational leadership, coaching, and human rights work, where theory meets consequence and clarity matters. I’m often brought in not to motivate, but to help people see what they’re already navigating—and to give language to tensions they’ve felt but haven’t been able to articulate.
 
-Audiences often come in expecting a talk about leadership, technology, or organizational change. What they leave with is something more precise: a clearer understanding of how decisions are shaped, where responsibility goes to hide, and what integrity looks like when the system doesn’t reward it.
+Audiences don’t leave with slogans or scripts. They leave with sharper questions, clearer awareness, and a stronger sense of agency inside the systems they’re part of.
 
-I don’t position myself as an expert standing above the room. I speak as someone who has lived inside these dynamics, made compromises, felt the tension, and learned where the real leverage points are—often uncomfortably close to home.
+If my writing resonates, speaking is where those ideas meet real-time dialogue—where complexity is named out loud, and responsibility becomes something we can actually work with.
 
-These conversations tend to stay with people because they don’t offer easy prescriptions. They offer orientation.
-
-Afterward, the questions usually sound like this:
-
-How do I lead without becoming what I’m critiquing?
-What responsibility do I actually have—and what’s been quietly offloaded onto me?
-What does ethical action look like when the rules are designed to diffuse it?
-
-Speaking creates a shared frame for those questions—one that teams, leaders, and institutions can return to when the pressure is on.
-
-For some audiences, that’s enough. For others, it becomes the beginning of deeper work.
-
-That’s where collaboration comes in.
+If you’re looking for a speaker who treats your audience as thoughtful, capable adults—and who understands what it means to lead when the answers aren’t clean—we should talk.
