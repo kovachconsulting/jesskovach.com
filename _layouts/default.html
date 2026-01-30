@@ -1,21 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }} · Jess Kovach</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    {% if site.stylesheet %}
-      <link rel="stylesheet" href="{{ site.stylesheet | relative_url }}">
-    {% endif %}
-  </head>
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} · Jess Kovach</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <body>
-    {% include header.html %}
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
 
-    <main class="page-content">
-      {{ content }}
-    </main>
+<body>
+  {% include header.html %}
 
-    {% include footer.html %}
-  </body>
+  <main class="page">
+    {{ content }}
+  </main>
+
+  {% include footer.html %}
+</body>
 </html>
