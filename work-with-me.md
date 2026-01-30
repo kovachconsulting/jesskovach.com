@@ -1,23 +1,31 @@
 **Work With Me**
 
-Not everything that needs attention requires a program. Some moments require judgment, steadiness, and the ability to see what’s actually happening while everyone else is reacting to what’s loudest.
+Most of my work begins the same way:
+someone is navigating complexity that can’t be reduced to a framework, a diagnosis, or a productivity fix.
 
-I work with leaders, teams, and organizations who are navigating complexity they can feel but haven’t fully named—often because the system rewards speed, compliance, or surface-level alignment over sense-making.
+They’re leading inside systems with competing incentives.
+They’re carrying responsibility without full authority.
+They’re making decisions where the human impact matters—and the answers aren’t obvious.
 
-This work usually begins after the realization that something isn’t broken in the obvious way. The numbers may still look fine. The strategy may still make sense on paper. But trust is thinning. Decisions feel harder to defend. People are quietly carrying more than their roles were designed to hold.
+That’s where I come in.
 
-My role is not to fix people or optimize performance. It’s to help clarify what’s being asked, what’s being avoided, and what responsibility actually looks like in context.
+I work with individuals and organizations who want to think more clearly, act more responsibly, and stay intact while doing it. This isn’t about optimization or performance for its own sake. It’s about sense-making, discernment, and agency inside real constraints.
 
-Sometimes that takes the form of advisory work with senior leaders who need a grounded, independent perspective—someone who understands how power really moves inside institutions and isn’t invested in protecting the fiction.
+My work is grounded in three overlapping areas:
 
-Sometimes it looks like facilitated conversations where teams slow down just enough to see the dynamics shaping their choices, before those dynamics harden into culture.
+I coach leaders and individuals—often neurodivergent, often burned out, often questioning—to help them name what’s actually happening, clarify what’s within their control, and move forward without self-betrayal.
 
-And sometimes the work is simply making space for leaders to think clearly again—to separate what is theirs to carry from what the system has quietly handed them and walked away from.
+I consult with organizations navigating change, accountability gaps, or leadership tension, helping surface the dynamics that are shaping decisions beneath the surface.
 
-I don’t offer one-size frameworks or prepackaged solutions. The value here comes from attention, pattern recognition, and the willingness to stay with uncomfortable questions long enough for better ones to emerge.
+And I advise on human rights–related work, particularly where power, harm, and responsibility intersect in complex systems.
 
-If you’ve found yourself nodding while reading—or feeling a kind of relief that someone is finally saying the quiet part out loud—we’re likely speaking the same language.
+Across all of it, my role is the same:
+to slow the moment down just enough for clarity to emerge.
 
-That doesn’t mean we should work together. It does mean a conversation would be honest.
+I don’t offer scripts. I don’t fix people. And I don’t pretend complexity disappears if you choose the “right” mindset. Instead, I help clients develop better questions, stronger judgment, and a more honest relationship with the systems they’re operating within.
 
-If you’re interested in exploring whether that conversation makes sense, you can reach out here.
+If my writing sharpens how you think, and my speaking resonates with how you see the world, working together is where those ideas become practical.
+
+You don’t need to know exactly what you’re looking for yet. You just need to know that something isn’t quite aligning—and that you’re ready to engage it thoughtfully.
+
+That’s enough to start a conversation.
