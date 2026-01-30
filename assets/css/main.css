@@ -1,0 +1,38 @@
+/* Header */
+.site-header {
+  border-bottom: 1px solid #eee;
+}
+
+.header-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1.5rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-brand a {
+  font-weight: 600;
+  text-decoration: none;
+  color: #111;
+  letter-spacing: 0.02em;
+}
+
+.site-nav a {
+  margin-left: 2rem;
+  text-decoration: none;
+  color: #111;
+  font-weight: 400;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
+
+/* Page content */
+main {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 3rem 2rem;
+}
