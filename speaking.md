@@ -1,23 +1,26 @@
 ---
 layout: page
-title: Context & Speaking
+title: Speaking
 ---
 
-My work is rooted in a simple reality: leadership and decision-making are rarely clean, and the systems we operate in often shape outcomes more than individual intent.
+Most conversations about technology move too fast.
 
-I write regularly in a more personal, reflective voice elsewhere. This site — and my speaking work — is where that reflection meets a more structured lens. I focus on sense-making: helping people understand the systems they’re operating in, the pressures shaping their choices, and the values they want to hold onto when things get complicated.
+They rush to solutions before anyone has agreed on the problem, or they flatten complex systems into slogans that feel reassuring but change very little.
 
-My experience spans corporate, nonprofit, and humanitarian contexts. Across those spaces, I’ve seen how ambiguity is unavoidable, tradeoffs are real, and clarity is often in short supply. I’ve also seen how accountability, care, and honest conversations can fundamentally change outcomes — for individuals, teams, and communities.
+My talks create space to slow that down.
 
-My human rights work, particularly around anti-trafficking efforts and the protection of children’s rights in humanitarian settings, has sharpened how I think about harm, responsibility, and leadership under pressure. It has reinforced the importance of systems that protect people — especially when they are most vulnerable.
+I speak to audiences who already sense that something isn’t working — in their tools, their incentives, or the decisions they’re being asked to make — but haven’t had the time or language to examine it clearly.
 
-As a speaker, I work best with audiences who are tired of platitudes and ready for conversations that reflect reality. My talks are grounded, candid, and designed to help people name what they’re already experiencing — then move forward with greater clarity and intention.
+Rather than presenting answers, I help groups see what they’re already inside.
 
-Common themes include:
-- Leading and deciding in ambiguity  
-- Neurodivergence, leadership, and work designed for real humans  
-- Values-driven leadership under pressure  
-- Power, accountability, and responsibility in complex systems  
-- Human rights, harm prevention, and ethical leadership  
+How power moves through platforms.
+How defaults quietly shape behavior.
+How “efficiency” often displaces accountability.
 
-If this work resonates, I’m glad you’re here.
+These talks are not designed to motivate or instruct. They are designed to clarify.
+
+In the room, that usually looks like people recognizing patterns they’ve lived with for years but never fully named. Tension becomes easier to hold. Conversations get more honest. Decisions get quieter — and better.
+
+I speak at conferences, internal leadership gatherings, and private sessions where the stakes are real and the audience is expected to think, not perform.
+
+If my writing resonates with you, speaking is where that recognition becomes shared — where individuals realize they aren’t alone in what they’re noticing, and organizations begin to ask more careful questions about what they’re building and why.
