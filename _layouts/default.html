@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} · Jess Kovach</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% if site.stylesheet %}
+      <link rel="stylesheet" href="{{ site.stylesheet | relative_url }}">
+    {% endif %}
+  </head>
+
+  <body>
+    {% include header.html %}
+
+    <main class="page-content">
+      {{ content }}
+    </main>
+
+    {% include footer.html %}
+  </body>
+</html>
