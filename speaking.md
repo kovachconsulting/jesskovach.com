@@ -1,26 +1,27 @@
----
-layout: page
-title: Speaking
----
+#Speaking
 
-Most conversations about technology move too fast.
+Writing names the problem. Speaking changes what people do with it.
 
-They rush to solutions before anyone has agreed on the problem, or they flatten complex systems into slogans that feel reassuring but change very little.
+When these ideas move into a room, something shifts. What was abstract becomes relational. What felt isolating becomes shared. People start recognizing patterns they’ve been navigating alone—and realizing they’re not personal failures, but structural ones.
 
-My talks create space to slow that down.
+I speak to make systems legible in real time.
 
-I speak to audiences who already sense that something isn’t working — in their tools, their incentives, or the decisions they’re being asked to make — but haven’t had the time or language to examine it clearly.
+My talks are grounded in lived experience inside large consumer technology organizations, paired with a clear-eyed analysis of how power, incentives, and compliance actually function. I’m not interested in performance or provocation for its own sake. I’m interested in what happens when people finally have language for what they’ve been feeling—and the space to think differently about their role inside it.
 
-Rather than presenting answers, I help groups see what they’re already inside.
+Audiences often come in expecting a talk about leadership, technology, or organizational change. What they leave with is something more precise: a clearer understanding of how decisions are shaped, where responsibility goes to hide, and what integrity looks like when the system doesn’t reward it.
 
-How power moves through platforms.
-How defaults quietly shape behavior.
-How “efficiency” often displaces accountability.
+I don’t position myself as an expert standing above the room. I speak as someone who has lived inside these dynamics, made compromises, felt the tension, and learned where the real leverage points are—often uncomfortably close to home.
 
-These talks are not designed to motivate or instruct. They are designed to clarify.
+These conversations tend to stay with people because they don’t offer easy prescriptions. They offer orientation.
 
-In the room, that usually looks like people recognizing patterns they’ve lived with for years but never fully named. Tension becomes easier to hold. Conversations get more honest. Decisions get quieter — and better.
+Afterward, the questions usually sound like this:
 
-I speak at conferences, internal leadership gatherings, and private sessions where the stakes are real and the audience is expected to think, not perform.
+How do I lead without becoming what I’m critiquing?
+What responsibility do I actually have—and what’s been quietly offloaded onto me?
+What does ethical action look like when the rules are designed to diffuse it?
 
-If my writing resonates with you, speaking is where that recognition becomes shared — where individuals realize they aren’t alone in what they’re noticing, and organizations begin to ask more careful questions about what they’re building and why.
+Speaking creates a shared frame for those questions—one that teams, leaders, and institutions can return to when the pressure is on.
+
+For some audiences, that’s enough. For others, it becomes the beginning of deeper work.
+
+That’s where collaboration comes in.
