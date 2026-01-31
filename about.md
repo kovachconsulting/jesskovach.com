@@ -6,6 +6,8 @@ permalink: /about/
 
 ## About
 
+*Where leadership, systems, and the lived impact of decisions meet.*
+
 I’m Jess Kovach.
 
 I write, speak, and work as a leadership advisor and consultant focused on leadership, systems, and how people make decisions when the answers aren’t clean and the stakes are real.
