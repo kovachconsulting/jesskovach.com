@@ -5,6 +5,7 @@ permalink: /speaking/
 ---
 
 **Speaking**
+
 Some ideas don’t belong only on the page.
 
 They need to be spoken—carefully, precisely, and in rooms where decisions are actually being made.
@@ -25,16 +26,22 @@ If you’re looking for a speaker who treats your audience as thoughtful, capabl
 
 When clarity has to hold under pressure—when the room matters as much as the idea—that’s where my work tends to move next.
 
+
+
 **Signature Speaking Topics**
+
 My speaking engagements are built around a small number of signature sessions that can be delivered as keynotes, workshops, or facilitated conversations, depending on context.
 
 **Leadership That Works for Different Minds**
+
 How leaders misread difference as resistance—and what it takes to lead effectively across cognitive diversity under pressure.
 
 **Beyond Accommodation: Designing Systems That Don’t Burn People Out**
+
 Moving from individual “fixes” to organizational design choices that reduce friction, fatigue, and attrition.
 
 **Sense-Making Under Pressure**
+
 How leaders interpret complexity, navigate ambiguity, and make better decisions when stability is the exception.
 
 (Each session is adapted for keynotes, workshops, and leadership offsites.)
