@@ -44,13 +44,13 @@ They leave with sharper questions, clearer awareness, and a stronger sense of ag
 
 ### Signature Sessions
 
-**Leadership That Works for Different Minds**  
+*Leadership That Works for Different Minds*  
 How leaders misread difference as resistance—and what it takes to lead effectively across cognitive diversity when pressure is high.
 
-**Beyond Accommodation: Designing Systems That Don’t Burn People Out**  
+*Beyond Accommodation: Designing Systems That Don’t Burn People Out*  
 Moving beyond individual fixes to examine how leadership and organizational design create—or reduce—strain, fatigue, and quiet attrition.
 
-**Sense-Making Under Pressure**  
+*Sense-Making Under Pressure*  
 How leaders interpret complexity, navigate ambiguity, and make decisions when certainty is unavailable and the stakes are real.
 
 ---
